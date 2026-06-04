@@ -1,0 +1,11 @@
+• Developed and maintained Oracle SQL, PL/SQL queries, procedures, functions, and reports to support business and application requirements.
+
+• Collaborated with clients, business users, and UI teams to gather requirements, deliver data solutions, and optimize long-running queries for improved performance.
+
+• Designed and developed SSIS packages using C# Script Tasks for data migration, transformation, and automation between SQL Server and Oracle.
+
+• Automated ETL processes using Task Scheduler and Control-M, including solutions for SQL Job failure handling and process monitoring.
+
+• Provided production support, issue analysis, defect resolution, deployment support, and performance tuning for enterprise applications.
+
+• Hands-on experience with Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure SQL Database, Python, and PySpark through self-learning and project implementation; currently learning Azure Databricks.
